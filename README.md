@@ -11,3 +11,4 @@ We are planning to implement the following as a part of our app. We will ensure 
 - Database to store the image feature and text metadata
 - Integration of above modules with an interface
 
+![EY GDS 3.0](/ey3.PNG)
